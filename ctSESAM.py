@@ -3,7 +3,6 @@
 
 from hashlib import pbkdf2_hmac
 
-print('ctSESAM Password Generator 2015/18 p.118')
 small_letters = list('abcdefghijklmnopqrstuvwxyz')
 big_letters = list('ABCDEFGHJKLMNPQRTUVWXYZ')
 numbers = list('0123456789')
